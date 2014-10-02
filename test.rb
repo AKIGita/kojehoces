@@ -1,2 +1,2 @@
-class aki
+class Aki
 end
